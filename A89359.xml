@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most execrable and barbarous murder done by an East-Indian devil, or a native of Java-Major, in the road of Bantam, aboard an English ship called the Coster, on the 22. of October last, 1641. Wherein is shewed how the wicked villain came to the said ship and hid himself till it was very dark, and then he mudrdered [sic] all the men that were a board, except the cooke, and three boyes. And lastly, how the murderer himselfe was justly requited. Captain William Minor being an eye-witnesse of this bloudy massacre.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89359</idno>
+            <idno type="STC">Wing M2885</idno>
+            <idno type="STC">Thomason E107_6</idno>
+            <idno type="STC">ESTC R20301</idno>
+            <idno type="EEBO-CITATION">99863116</idno>
+            <idno type="PROQUEST">99863116</idno>
+            <idno type="VID">115298</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115298)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most execrable and barbarous murder done by an East-Indian devil, or a native of Java-Major, in the road of Bantam, aboard an English ship called the Coster, on the 22. of October last, 1641. Wherein is shewed how the wicked villain came to the said ship and hid himself till it was very dark, and then he mudrdered [sic] all the men that were a board, except the cooke, and three boyes. And lastly, how the murderer himselfe was justly requited. Captain William Minor being an eye-witnesse of this bloudy massacre.</title>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly the 18. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mass murder --  Indonesia --  Java --  Early works to 1800.</term>
+               <term>Pirates --  Indonesia --  Java --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115298:1" rendition="simple:additions"/>
+            <p>A MOST EXECRABLE <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ND BARBAROVS MVRDER done by an <hi>Eaſt-Indian</hi> Devil, or a Native of <hi>Java-Major,</hi> in the Road of <hi>Bantam,</hi> Aboard an <hi>Engliſh</hi> Ship called the <hi>Coſter,</hi> on the 22. of <hi>October</hi> laſt, 1641.</p>
+            <p>Wherein is ſhewed how the wicked Villain came to the ſaid Ship and hid himſelf till it was very dark, and then he mudrdered all the men that were a Board, except the Cooke, and three Boyes. And Laſtly, how the murderer himſelfe was juſtly requited.</p>
+            <p>Captain <hi>William Minor</hi> being an eye-witneſſe of this bloudy Maſſacre.</p>
+            <figure>
+               <figDesc>massacre of the men of the Coster</figDesc>
+            </figure>
+            <p>LONDON, Printed for T. Banks, Iuly the 18. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115298:2"/>
+            <pb n="1" facs="tcp:115298:2"/>
+            <head>A MOST EXECRABLE AND BARBAROUS Murther, done by an <hi>Eaſt-Indian</hi> devil, or a Native of <hi>Java-Major</hi> in the Road of <hi>Ban<g ref="char:EOLhyphen"/>tam,</hi> Aboard an <hi>Engliſh</hi> Ship called the <hi>Coſter,</hi> on the 22. of <hi>October</hi> laſt, 1641.</head>
+            <p>THe Bleſſings of gracious Favours, Mercies and Bounties (which God hath bin pleaſed from time to time, to pour upon this our undeſerving Nation) are innumerable and in<g ref="char:EOLhyphen"/>finite: Of all which happineſſes, amogſt things Temporall; the knowledge of Building, Shipping, Skill, Strength Ho<g ref="char:EOLhyphen"/>nour and profit of Navigation is not the leaſt, the glory of God, the propaga<g ref="char:EOLhyphen"/>tion of the Goſpel, the diſcoveries of ſtrange Empires, Kingdoms, and mighty Regions, the converſition of many <hi>Pagans, Heathens,</hi> and <hi>Infidels,</hi> the Exportation and Importation of native and forraigne Commodities, the great increaſe of Traffique, the raiſing of Merchants and Marchandize the great nurſery of Marriners and Sea-men, and the ſtrength of this Kingdom. by the multiplicity of goodly ſhips; all theſe bleſſings (or the moſt part of them) have bin by pains, cares, happy ſucceſſes &amp; proſperous voyages of many worthy men, Adventurers and skilfull ſea-men; by their trading to <hi>Moſcovie, Turkey, Spain, Barberie,</hi> to the <hi>Weſt-Indies,</hi> the <hi>Straits</hi> and <hi>Levant,</hi> but eſ<g ref="char:EOLhyphen"/>pecially to the <hi>Eaſt-Indies.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:115298:3"/>
+Amongſt the many voyages that have bin made into the Orientall Cun<g ref="char:EOLhyphen"/>treyes, (whereof ſome Ships have been 4. ſome 3. years in performing the ſaid voyages out and home,) this treatiſe which followeth is exceeding remarkable, for the ſpeedineſſe of departing and returne.</p>
+            <p>On the 7. of <hi>Aprill</hi> laſt 1641. Captaine <hi>William Minor,</hi>) A Gentle<g ref="char:EOLhyphen"/>man whoſe skill, valour, and induſtry is well approved,) being commander in the good Ship called the Royall <hi>Mary,</hi> of the burthen of 1000 tuns, Set ſaile from the <hi>Lizar,</hi> (in <hi>Cornwall,</hi>) and after many variations of windes, weathers, and climates. From the <hi>Lizard,</hi> he ſaild for <hi>Bantam,</hi> a city of <hi>Ja<g ref="char:EOLhyphen"/>va Major,</hi> where he arived in the Road the 14 of <hi>Auguſt,</hi> it is one of the Eaſterne <hi>Iſland</hi> of the <hi>Indies,</hi>) and having the Ships lading there and diſbur<g ref="char:EOLhyphen"/>thened: He with all cellerity, began to lade again on the third of <hi>September</hi> and on the 9 of <hi>November,</hi> being richly laden, weighed Anchor for <hi>England,</hi> with ſuch proſperous ſucceſſe (through Gods great gooneſſe and mercy,) that by the 18. of <hi>Aprill,</hi> made the Lands-end; and on the 20. he Anchored in <hi>Plimouth</hi> Rode, Arived at <hi>London,</hi> having bin in all out but 12 moneths and 11 dayes, of the which he ſtared 20. dayes by the way; that is 11 dayes, at the <hi>Cape Bona Spes,</hi> and 9. dayes at St. <hi>Hellena.</hi> This is one of the ſhort<g ref="char:EOLhyphen"/>eſt voyages to the <hi>Eaſt-Indies</hi> that ever was performed betwixt <hi>England</hi> and <hi>India.</hi>
+            </p>
+            <p>And now I proceed to the Relation of the murderous Maſacre which was done by a <hi>Pagan</hi> or devill, aboard a Ship called the <hi>Coſter,</hi> which Ship was in Burthen 400. tuns, and mand with 100. <hi>Engliſh</hi> men and boyes: But at this Maſacre the men were moſt of them a ſhore to fetch freſh water, and on o<g ref="char:EOLhyphen"/>ther occaſions, by reaſon whereof thoſe few that were a board the Ship, ſuf<g ref="char:EOLhyphen"/>fered as followeth.</p>
+            <p>On Friday the 22. of <hi>October</hi> laſt 1641. towards night there came aboard an <hi>Engliſh</hi> Ship called the <hi>Coſter,</hi> in a ſmall Prow (or flat Boat with one pa<g ref="char:EOLhyphen"/>dle) a proper young man, (a <hi>Java</hi> which is as much to ſay, as a man born or native of the Territory of <hi>Java.</hi>) This man (or devill in mans ſhape,) with a pretence to ſell ſome Hews, (hatching miſchief in his damnd minde,) did delay and trifle time, becauſe he would have the night more dark for him to do his deeds of darkneſſe: At laſt he ſold 6. <hi>Hews</hi> for half a Royall of 8. which is not much above two ſhillings. There came alſo another <hi>Java</hi> a<g ref="char:EOLhyphen"/>board, (with the like ſmall Prow or Boat) to whom he gave the half Royal, ſent him away and bad him make haſte; he being asked for what the other <hi>Java</hi> went for, the anſwer was that he had ſent him for more <hi>Hews</hi> and <hi>Goates</hi> to ſell.</p>
+            <p>Night being come, and very dark, (for it was the laſt night of the wane
+<pb n="3" facs="tcp:115298:3"/>of the Moone,) This inhumane dog ſtaid lurking under the half deck, having 2. Creſts (or dangerous waving Daggers) and a Buckler, of which he would have ſold one and the Buckler with it, and as he was diſcourſing, he took off one of the Creſts hefts, and put cloath about the tongue of the Blade, and made it ſure faſt; on the other Creſt he roled the handle with a fine linnen cloath to make it alſo ſure from ſlipping in his hand; theſe things he did whilſts the Maſter <hi>Robert Start, Stephen Roberts</hi> his mate, <hi>Hugh Rawlinſon</hi> Chirurgian, <hi>William Perks</hi> Steward, <hi>James Biggs</hi> Gunner, and 3. Boyes or Youths attending. At ſupper they were very merry, and this Caitiffe took notice of their careleſneſſe of him, to ſuffer him to ſit on the quarter deck upon a Cot cloſe by them.</p>
+            <p>Supper being ended about 6. at night; the Maſter went to his Cabin to reſt, the Gunner asked leave to go a ſhore; (the ſhip riding but half a mile from landing. Afterwards <hi>Robert Rawlinſon,</hi> and <hi>Perks</hi> walked upon the quarter deck; and the devilliſh <hi>Java</hi> perceiving the Maſter to be abſent, he asked the Boyes where he was, who anſwerd he was gone to ſleepe, this que<g ref="char:EOLhyphen"/>ſtion he demanded 3 or 4 times of the Boyes, and finding it to be ſo, he aroſe from the place where he ſate, which was on the ſtarboard ſide, and went a<g ref="char:EOLhyphen"/>bout the Table next the Mizzen Maſt, (where <hi>Roberts, Rawlings,</hi> and <hi>Perks</hi> were walking,) with his Target about his Neck for defence againſt Pikes, or the like; and his 2 Creſts in his hand, and upon a ſudden <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>yes <hi>a Muck,</hi> which in that language is, I hazzard or run my death: Then firſt he ſtabd <hi>Roberts,</hi> ſecondly he ſtabd <hi>Rawlinſon,</hi> thirdly <hi>Perks,</hi> all three at an inſtant. After that, he let drive at the Boyes but they leapd down, and ran forward into the fore caſtle, where they found the Cooke, to whom the Boyes related what had happened.</p>
+            <p>The Villaine preſently went to the great Cabbin door, where the Maſter being wakened and heard ſome buſtling opened the door, and was no ſooner out, but ſtabd dead. The Gunners Mate hearing ſome ſtir, went out of the Gun-Roome, and coming up a Scuttle (where the Maſter was murdered,) there was he alſo ſtabd that he fell down the Scuttle, but making ſhift to creep into the Gun-Room and was there found dead upon his knees, leaning upon a Cheſt: The Chirurgian <hi>(Rawlinſon)</hi> gat into the fore Pick, and there ſat down and dyed.</p>
+            <p>The <hi>Java</hi> keeps his ſtand under the quarter Deck, where he had ſlain the Maſter and the Gunners Mate, and never proffered to purſue or aſſault thoſe in the fore-caſtle.</p>
+            <p>
+               <hi>John Taylor,</hi> ſeeing the danger he was in, made way to give fire to a peece of Ordnance in the Cook-room, and laying a Coal upon the Touch-hole of
+<pb n="4" facs="tcp:115298:4"/>the Peece, he fooliſhly blew the ſame with his mouth, whereas the Peec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> took fire, and ſo violently blew into his mouth, that he dyed of the ſame blaſt within 2 dayes after.</p>
+            <p>In this time the Ships Long-boat and Skiffe, had made a turn a ſhore for freſh water; which returned about 7 in the evening, which they in the fore-caſtle perceiving, called unto them, telling them there was a <hi>Muke</hi> aboard who had ſlain the M<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er; and all the men except the Cooke and 3 boyes at which the Long-boat laid the Ship aboard in the Bowe, and took into her the ſaid Cooke and Boyes,) which were all that were left alive in the Ship;) except one <hi>John Taylor,</hi> who was not yet dead, for they took him into the boat, and he died 2 dayes after; and preſently they went aboard the Royall <hi>Mary,</hi> and certified Captaine <hi>Minor</hi> of the bloody Maſacre committed.</p>
+            <p>The Gunner and Carpenter (as yet) knew nothing of this miſchief, for they went aſhore together to fetch a bagge of Royalls; and returning, the Gunner firſt entred, with the bagge under his arme, and going to open a gra<g ref="char:EOLhyphen"/>ting door under the quarter deck, where the <hi>Java</hi> kept his ſtand, there the Rogue alſo ſtabd him into the left breaſt, but by the mercy of God in lighted glauncing upon a rib, ſo that it pierced not into his body; he wondring who it ſhould be that ſtabd him and there being no light nor any that would ſpeak or anſwer him; calld to the Carpenter, and bad him ſtay in the Prowe (or boat,) for I am ſtabd in the dark (quoth he,) and ſo the Gunner and the Carpenter left the Ship <hi>Coſter,</hi> and went aboard of the Royall <hi>Mary.</hi> But it is to be noted, that the <hi>Java</hi> did not purſue the Gunner after he had ſtabd him but ſuffered him to go over the Ships ſide into the boat where the Carpenter was. Being come to the <hi>Mary,</hi> there related what had happened to them and likewiſe there they found their Long-boat, with the Cooke and the 3 Boyes. And preſently the Captaine commanded his own Skiffe and the <hi>Coſters,</hi> to be well mand, and becauſe it was very dark, he gave them order that they ſhould keep about the other Ship till it was day, and not to ſuffer any boats to board her: This charge was given to the Captaines Mate Maſter <hi>Gardner,</hi> who performed it diſcreetly, but by that time the boats got to the <hi>Coſter,</hi> the lights were almoſt burnt out, and there no more to be had at that time. So the Skiffe being mand well, went and cut away the ſmall Prowe or boat which brought the curſed Cur aboard.</p>
+            <p>The <hi>Maries</hi> Pinace well furniſhed, being appointed by Captain <hi>Minors</hi> command, what to do in boarding the <hi>Coſter,</hi> and that by no meanes they ſhould enter till night was paſt; but the giddy multitude overſwayd Maſter <hi>Gardner,</hi> and forced the boats aboard, on each bowe of the Ship, and the Mariners entred with Pikes, Halberts, Swords, Bucklers, and other Wea<g ref="char:EOLhyphen"/>pons
+<pb n="5" facs="tcp:115298:4"/>neceſſary, they cleared the Cook-room, the Waſte, and between the Decks, all this while the <hi>Java</hi> conſtantly kept his ſtand in the quarter deck, by the great Cabbin door. Our men (finding no reſiſtance,) our Trumpeter too haſtily entred the quarter deck door, would not ſtay till light came.</p>
+            <p>But he; (poor man) had his fatall portion which the Maſter and Gunners Mate had in the very ſame place where they were kild, there fell he wounden mortally: Had he but ſtayd for light according to order, or for ſome Pikes they had with them, the Tragedy had been ended without the loſſe of him: for after the Halberts, Pikes and ſuch Weapons, plyed faſt upon the Vil<g ref="char:EOLhyphen"/>laine, that he was forced to retire Abafte the Mizzen Maſt, and Bitacle, where they had him at a Bay, as it were in a ſnare or Net, for over his head was a Scuttle, where one of our men ſtood with a croſſe ſpit, who gave him a Launching wound into the breaſt, that the thruſt went down into his belly, which made him turne, and then his Buckler did him no good, for he was faſtned to the Bulk-head, (as if he had been nayld, and preſently he had as many wounds upon him, as would have killd a ſcore of his companions.</p>
+            <p>Divers are the opinions of men concerning this Action, the King and Na<g ref="char:EOLhyphen"/>tives do ſay, that it was upon diſcontent; that he could not obtain a woman in marriage, (after their faſhion,) and had vowed therefore he would be re<g ref="char:EOLhyphen"/>venged on any whomſoever, he cared not who, and that affront was the period of his revenge, as ſable as his ſoul. Some others do alleadge that <hi>Keyradding</hi> who is in that Cuntrey a Noble man; (one that is in good eſteem with our Nation,) had been aboard the day before, and had ſeen ſome gold that the Maſter had to ſell, and agreed with him for the price, and promiſed to come at that time that this <hi>Muck</hi> came aboard, and bring the money to pay for it, but it is otherwayes conjectured, that he ſuppoſed to have it by the attempt of this <hi>Muck,</hi> (for the <hi>Iava</hi> or <hi>Muck</hi>) had ſeen the gold and enquired for it after he came aboard; but inſtead of that money <hi>Keyradding</hi> promiſed to ſend, he brought 2 Creſts and a Target, (wherewith he did the miſchiefs.) And when the 6 murdred corps were in the boat, to be carried aſhore to bu<g ref="char:EOLhyphen"/>riall; the Preſident and Captain <hi>Minor</hi> were in anothr boat, and met <hi>Key<g ref="char:EOLhyphen"/>radding,</hi> ſhewing him the dead Corps, and the Weapons, whereat he was much abaſhed, he was demanded if he knew the Creſts or Target, he pre<g ref="char:EOLhyphen"/>ſently anſwered that it was very eaſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to be known, being the Picture of a Sea-Devill, with a hand that held a Creſt-handle with two blades, (the one forward, and the other backward.) The Preſident ſent to the King for Howkame (which is juſtice,) and did intend to have gone himſelf after, to have ſeen the event: But whilſt the Preſident was at Dinner, <hi>Keyradding</hi> came in, and ſaid that the King with his great Counſell and <hi>Oronkeyes</hi>
+               <pb n="1" facs="tcp:115298:5"/>(who are as Earls, Dukes, ot Princes) had <hi>Prichard</hi> (which is concluded that it was for the diſcontent for the deniall of his love, that he had ran <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Muck,</hi> and therefore it was but vain to trouble the King any fu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther in th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> matter; and this is the <hi>Javas Howkam,</hi> or ſtrange kinde of juſtice.</p>
+            <p>Some 2 dayes after, there was a great <hi>Orankey</hi> confeſſed that the nigh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before, he did tell him that he would run this <hi>Muck</hi> aboard an <hi>Engl<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> Ship: And this <hi>Orankey</hi> was the Kings favourite, yet he never made th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King, or our Preſident acquainted with it; for which neglect of his, the King ſeemed to be very angry with this <hi>Orankey,</hi> (who hath a by name, and is cal<g ref="char:EOLhyphen"/>led <hi>Turner.</hi>) It is obſervable, that of all theſe men that were thus Butcherd the Hel-hound did never ſtab any man twice, ſo ſure did he ſtrike, nor di<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he purſue any man that kept clear of his ſtand, under the quarter deck t<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> there dyed in all (in this bloody action, <hi>Robert Start</hi> Maſter <hi>Stephen Robe<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> his Mate, <hi>Hugh Rawlinſon</hi> Chirurgion, <hi>William Perks</hi> Steward, <hi>Walter <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gers</hi> Gunners Mate, and <hi>Francis Drake</hi> Trumpeter of the <hi>Mary;</hi> and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Muck, Java</hi> or <hi>Devill,</hi> had ended the firſt part of this bloody Traged<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there was only left in the Ship, the Cooke, 3 Boyes, and one <hi>John</hi> T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that was almoſt dead with a ſhott he fooliſhly made: So tha 7 men were <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fortunatly loſt, (as you have heard, and the Gunner eſcaped very narro<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> through Gods mercifull prevention, from the like of theſe related diſaſ<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and ſuddiane miſchiefs, Good Lord deliver us.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
